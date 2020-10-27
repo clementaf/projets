@@ -1,6 +1,8 @@
 # projets
 
-J'utilise les groupes afin de scinder les différents projets. Vous retrouvez les liens accessibles depuis ce dépôt
+Ce dépot est destiné à contribuer sur des projets présent sur Github.
+
+J'utilise Gitlab et les groupes afin de scinder les différents projets. Vous retrouvez les liens accessibles depuis ce dépôt
 
 ### Hoori
 
